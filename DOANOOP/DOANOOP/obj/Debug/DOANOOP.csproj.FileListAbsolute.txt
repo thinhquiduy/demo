@@ -1,0 +1,13 @@
+D:\LTHDT\DOANOOP\DOANOOP\bin\Debug\DOANOOP.exe.config
+D:\LTHDT\DOANOOP\DOANOOP\bin\Debug\DOANOOP.exe
+D:\LTHDT\DOANOOP\DOANOOP\bin\Debug\DOANOOP.pdb
+D:\LTHDT\DOANOOP\DOANOOP\obj\Debug\DOANOOP.csprojResolveAssemblyReference.cache
+D:\LTHDT\DOANOOP\DOANOOP\obj\Debug\DOANOOP.Form1.resources
+D:\LTHDT\DOANOOP\DOANOOP\obj\Debug\DOANOOP.Properties.Resources.resources
+D:\LTHDT\DOANOOP\DOANOOP\obj\Debug\DOANOOP.csproj.GenerateResource.Cache
+D:\LTHDT\DOANOOP\DOANOOP\obj\Debug\DOANOOP.exe
+D:\LTHDT\DOANOOP\DOANOOP\obj\Debug\DOANOOP.pdb
+D:\LTHDT\DOANOOP\DOANOOP\obj\Debug\DOANOOP.BophanQuanLy.resources
+D:\LTHDT\DOANOOP\DOANOOP\obj\Debug\DOANOOP.DangNhap.resources
+D:\LTHDT\DOANOOP\DOANOOP\obj\Debug\DOANOOP.DoanhThu.resources
+D:\LTHDT\DOANOOP\DOANOOP\obj\Debug\DOANOOP.ThongKe.resources
