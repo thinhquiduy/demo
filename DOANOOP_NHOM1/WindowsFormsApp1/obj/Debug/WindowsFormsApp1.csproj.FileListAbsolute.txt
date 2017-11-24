@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\DOANOOP_NHOM1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\USER\Desktop\DOANOOP_NHOM1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\USER\Desktop\DOANOOP_NHOM1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\USER\Desktop\DOANOOP_NHOM1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\DOANOOP_NHOM1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BanHangChiNhanh.resources
+C:\Users\USER\Desktop\DOANOOP_NHOM1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BaoCao.resources
+C:\Users\USER\Desktop\DOANOOP_NHOM1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BoPhanQuanLi.resources
+C:\Users\USER\Desktop\DOANOOP_NHOM1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DangNhap.resources
+C:\Users\USER\Desktop\DOANOOP_NHOM1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dathangtongdai.resources
+C:\Users\USER\Desktop\DOANOOP_NHOM1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Doanh_Thu.resources
+C:\Users\USER\Desktop\DOANOOP_NHOM1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\USER\Desktop\DOANOOP_NHOM1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Trang_Thai_Don_Hang.resources
+C:\Users\USER\Desktop\DOANOOP_NHOM1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\DOANOOP_NHOM1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\DOANOOP_NHOM1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\USER\Desktop\DOANOOP_NHOM1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
