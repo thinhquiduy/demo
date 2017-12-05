@@ -1,0 +1,10 @@
+C:\Users\USER\Downloads\DoanhTh\DoanhTh\bin\Debug\DoanhTh.exe.config
+C:\Users\USER\Downloads\DoanhTh\DoanhTh\bin\Debug\DoanhTh.exe
+C:\Users\USER\Downloads\DoanhTh\DoanhTh\bin\Debug\DoanhTh.pdb
+C:\Users\USER\Downloads\DoanhTh\DoanhTh\obj\Debug\DoanhThu.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\DoanhTh\DoanhTh\obj\Debug\DoanhTh.Form1.resources
+C:\Users\USER\Downloads\DoanhTh\DoanhTh\obj\Debug\DoanhTh.Properties.Resources.resources
+C:\Users\USER\Downloads\DoanhTh\DoanhTh\obj\Debug\DoanhThu.csproj.GenerateResource.Cache
+C:\Users\USER\Downloads\DoanhTh\DoanhTh\obj\Debug\DoanhThu.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\DoanhTh\DoanhTh\obj\Debug\DoanhTh.exe
+C:\Users\USER\Downloads\DoanhTh\DoanhTh\obj\Debug\DoanhTh.pdb
