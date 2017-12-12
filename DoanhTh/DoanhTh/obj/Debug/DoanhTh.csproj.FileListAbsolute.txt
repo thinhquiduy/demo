@@ -1,0 +1,10 @@
+C:\Users\Tone\source\repos\DoanhTh\DoanhTh\bin\Debug\DoanhTh.exe.config
+C:\Users\Tone\source\repos\DoanhTh\DoanhTh\bin\Debug\DoanhTh.exe
+C:\Users\Tone\source\repos\DoanhTh\DoanhTh\bin\Debug\DoanhTh.pdb
+C:\Users\Tone\source\repos\DoanhTh\DoanhTh\obj\Debug\DoanhTh.csprojResolveAssemblyReference.cache
+C:\Users\Tone\source\repos\DoanhTh\DoanhTh\obj\Debug\DoanhTh.Form1.resources
+C:\Users\Tone\source\repos\DoanhTh\DoanhTh\obj\Debug\DoanhTh.Properties.Resources.resources
+C:\Users\Tone\source\repos\DoanhTh\DoanhTh\obj\Debug\DoanhTh.csproj.GenerateResource.Cache
+C:\Users\Tone\source\repos\DoanhTh\DoanhTh\obj\Debug\DoanhTh.csproj.CoreCompileInputs.cache
+C:\Users\Tone\source\repos\DoanhTh\DoanhTh\obj\Debug\DoanhTh.exe
+C:\Users\Tone\source\repos\DoanhTh\DoanhTh\obj\Debug\DoanhTh.pdb
