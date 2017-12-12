@@ -1,0 +1,10 @@
+C:\Users\Tone\source\repos\CBBplDGV\CBBplDGV\bin\Debug\CBBplDGV.exe.config
+C:\Users\Tone\source\repos\CBBplDGV\CBBplDGV\bin\Debug\CBBplDGV.exe
+C:\Users\Tone\source\repos\CBBplDGV\CBBplDGV\bin\Debug\CBBplDGV.pdb
+C:\Users\Tone\source\repos\CBBplDGV\CBBplDGV\obj\Debug\CBBplDGV.csprojResolveAssemblyReference.cache
+C:\Users\Tone\source\repos\CBBplDGV\CBBplDGV\obj\Debug\CBBplDGV.Form1.resources
+C:\Users\Tone\source\repos\CBBplDGV\CBBplDGV\obj\Debug\CBBplDGV.Properties.Resources.resources
+C:\Users\Tone\source\repos\CBBplDGV\CBBplDGV\obj\Debug\CBBplDGV.csproj.GenerateResource.Cache
+C:\Users\Tone\source\repos\CBBplDGV\CBBplDGV\obj\Debug\CBBplDGV.csproj.CoreCompileInputs.cache
+C:\Users\Tone\source\repos\CBBplDGV\CBBplDGV\obj\Debug\CBBplDGV.exe
+C:\Users\Tone\source\repos\CBBplDGV\CBBplDGV\obj\Debug\CBBplDGV.pdb
